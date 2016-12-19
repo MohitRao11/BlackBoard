@@ -14,11 +14,10 @@
         <Time>9:30 PM</Time>
       </Announcement>
       <Announcement>
-        <Title>Immediate Attention: Submission of Health Insurance Card</Title>
-        <PostedBy>SU,Health Services</PostedBy>
+        <Title>New I-20 Available</Title>
+        <PostedBy>Sluzker Center for International Services</PostedBy>
         <Body>
-          All the students are hereby notified to submit a copy of their health insurance card
-          by 12/20/2016. Kindly do the needful.
+          All the students are hereby notified to change their old I-20's on 12/21/2016. Kindly collect your new I 20's else you have to schedule an appointment.
         </Body>
         <Date>12/11/2016</Date>
         <Time>9:30 PM</Time>
@@ -39,9 +38,9 @@
         </EventSupervisor>
       </Event>
       <Event>
-        <EventName>Resume Workshop for Masters Students</EventName>
-        <EventDate>12/11/2016</EventDate>
-        <EventType>Workshop</EventType>
+        <EventName>Ted Talks: Jhumpa Lahiri</EventName>
+        <EventDate>12/13/2016</EventDate>
+        <EventType>Guest Lecture</EventType>
         <EventSupervisor>
           <Name>Kathy Benjamin</Name>
           <Title>Program Coordinator</Title>
@@ -52,7 +51,7 @@
     </UpcomingEvents>
     <UpcomingDeadlines>
       <UpcomingDeadline>
-      <Name>Quiz-5</Name>
+      <Name>Assignment-2</Name>
       <Course>IST 558 Tech in Web Content Management</Course>
       <Deadline>12/11/2016</Deadline>
       </UpcomingDeadline>
