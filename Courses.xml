@@ -5,23 +5,23 @@
         <CourseEnrolled>
             <Course id="1">
                 <CourseNumber>IST 625</CourseNumber>
-                <CourseName>Enterprise Risk MAnagement</CourseName>
+                <CourseName>Enterprise Risk Management</CourseName>
                 <Instructor>Prof.Frank Marullo</Instructor>
             </Course>
             <Course id="2">
                 <CourseNumber>IST 614</CourseNumber>
                 <CourseName>Management of Information Professionals</CourseName>
-                <Instructor>Prof. Erik Anderson</Instructor>
+                <Instructor>Prof.Steve Sawyer</Instructor>
             </Course>
             <Course id="3">
-                <CourseNumber>IST 625</CourseNumber>
-                <CourseName>Enterprise Risk MAnagement</CourseName>
-                <Instructor>Prof.Frank Marullo</Instructor>
+                <CourseNumber>IST 621</CourseNumber>
+                <CourseName>Introduction to Information Management</CourseName>
+                <Instructor>Prof.Jamie Stewart</Instructor>
             </Course>
             <Course id="4">
-                <CourseNumber>IST 614</CourseNumber>
-                <CourseName>Management of Information Professionals</CourseName>
-                <Instructor>Prof. Erik Anderson</Instructor>
+                <CourseNumber>IST 619</CourseNumber>
+                <CourseName>Economics for Information Professionals</CourseName>
+                <Instructor>Prof.Ian McInnes</Instructor>
             </Course>
         </CourseEnrolled>
     </CourseList>
